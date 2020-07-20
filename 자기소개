@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>김대호 자기소개하기</title>
+</head>
+<body>
+    <h1>김대호 자기소개 페이지 보기.</h1>
+    <h2>안녕하세요!</h2>
+    <ul>취미나 좋아할만한 것들
+        <li>오버워치</li>
+        <li>트랜스포머 + 유희왕 + 가오가이가</li>
+        <li>컴퓨터 조립</li>
+        <li>인형 만들기</li>
+    </ul>
+    <img src = "./gaofighgar.png" alt="가오파이가 분노"/>
+    <a href = "https://github.com/aptx4850/html1">제 깃허브 주소에요.</a>
+</body>
+</html> 
