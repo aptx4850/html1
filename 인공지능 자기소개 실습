@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>광주인공지능사관학교</title>
+
+<label for="userid_input">이메일</label> 
+<input
+id = "userid_input"
+type = "text"
+name = "userid"
+placeholder = "ex) aaa@naver.com"
+/>
+<br>
+<label for = 'userpw_input'>비밀번호</label>
+<input
+id = 'userpw_input'
+type = 'password'
+name = 'userpw'
+placeholder = '비밀번호를 입력하세요.'
+/>
+<br>
+<p>비밀번호 힌트 작성</p>
+<select name = "비밀번호 힌트를 작성하세요.">
+    <option value="">비밀 질문을 고르세요.</option>
+    <option value="지역">살고 있는 지역은 어디인가?</option>
+    <option value="게임">내가 좋아하는 게임은?</option>
+    <option value="취미">내가 좋아하는 취미는?</option>
+</select>
+<br>
+<input id = "hint_answer" type = 'text' name='answer' placeholder="답을 입력하세요."/>
+<br>
+<p>자기소개를 자유롭게 써 주세요.</p>
+<textarea name = 'content'  cols = "20" rows="10"></textarea>
+
+<button name="등록" type = "submit">등록하기</button>
+<botton type="submit"><button>
+</from>
+</body>
+</html> 
+
+</body>
+</html> 
